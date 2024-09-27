@@ -3,7 +3,7 @@ Objective:
 The objective of this project is to analyze the relationship between study hours, sleep hours, extracurricular activities, and student performance (marks). By understanding how these factors interact, we aim to identify key factors that significantly impact student achievement.
 
 Dataset Overview:
-The dataset includes data from 20 students and provides the following attributes:
+The dataset includes data from 20 students and provides the following attributes: 
 
 Study Hours: The number of hours spent studying per day.
 Sleep Hours: The number of hours spent sleeping per day.
